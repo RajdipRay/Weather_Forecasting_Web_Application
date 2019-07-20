@@ -1,0 +1,7 @@
+cd\
+cd e:
+cd weather_app
+pip install virtualenvwrapper-win
+django-admin startproject the_weather
+cd the_weather
+python manage.py runserver
